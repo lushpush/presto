@@ -1,4 +1,5 @@
 *.iml
+*.vmrc
 *.ipr
 *.iws
 target/
